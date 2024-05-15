@@ -14,8 +14,8 @@ oluşturulan hatalı biti teyit eder.
 ## Error-Correcting Code Function Mantığı
   ![](/readmeGoruntuleri/hamming.png)
 ## Çalışma Görüntüleri
-![](/readmeGoruntuleri/calismaGoruntuleri0.png)
-![](/readmeGoruntuleri/calismaGoruntuleri1.png)
-![](/readmeGoruntuleri/calismaGoruntuleri2.png)
+![](/readmeGoruntuleri/calismaGoruntusu0.png)
+![](/readmeGoruntuleri/calismaGoruntusu1.png)
+![](/readmeGoruntuleri/calismaGoruntusu2.png)
 ## Yazar
 * [Eren Köse](https://tr.linkedin.com/in/eren-k%C3%B6se-338936252?trk=people-guest_people_search-card) - Bursa Teknik Üniversitesi Bilgisayar Mühendisliği Öğrencisi
