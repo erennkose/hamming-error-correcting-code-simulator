@@ -1,0 +1,10 @@
+C:\Users\erenk\source\repos\mimariProje\mimariProje\bin\Debug\mimariProje.exe.config
+C:\Users\erenk\source\repos\mimariProje\mimariProje\bin\Debug\mimariProje.exe
+C:\Users\erenk\source\repos\mimariProje\mimariProje\bin\Debug\mimariProje.pdb
+C:\Users\erenk\source\repos\mimariProje\mimariProje\obj\Debug\mimariProje.csproj.AssemblyReference.cache
+C:\Users\erenk\source\repos\mimariProje\mimariProje\obj\Debug\mimariProje.Form1.resources
+C:\Users\erenk\source\repos\mimariProje\mimariProje\obj\Debug\mimariProje.Properties.Resources.resources
+C:\Users\erenk\source\repos\mimariProje\mimariProje\obj\Debug\mimariProje.csproj.GenerateResource.cache
+C:\Users\erenk\source\repos\mimariProje\mimariProje\obj\Debug\mimariProje.csproj.CoreCompileInputs.cache
+C:\Users\erenk\source\repos\mimariProje\mimariProje\obj\Debug\mimariProje.exe
+C:\Users\erenk\source\repos\mimariProje\mimariProje\obj\Debug\mimariProje.pdb
