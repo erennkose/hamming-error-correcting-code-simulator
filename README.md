@@ -10,7 +10,7 @@ oluşturmaya izin verir.
 çıkan) sendrom kelimesinden yorumlayıp başta yapay olarak
 oluşturulan hatalı biti teyit eder.
 ## Projenin Simülasyon Videosunun Linki
-* [Simülasyon Videosu Linki](https://youtu.be/) - Simülasyon videosuna yandaki linke tıklayarak ulaşabilirsiniz.
+* [Simülasyon Videosu Linki](https://youtu.be/X9eoH1PB-Os) - Simülasyon videosuna yandaki linke tıklayarak ulaşabilirsiniz.
 ## Error-Correcting Code Function Mantığı
   ![](/readmeGoruntuleri/hamming.png)
 ## Çalışma Görüntüleri
